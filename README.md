@@ -6,9 +6,9 @@ BioRxiv preprint here: https://www.biorxiv.org/content/10.1101/2024.10.29.620874
 
 The behavioral data (.mat files in the "final_behav_eye_data_Krishnamurthy" folder) are part of the dataset that was collected by 
 Kamesh Krishnamurthy, Matthew R. Nassar, Shilpa Sarode & Joshua I. Gold, and it was published in Nature Human Behaviour (2017):
-"Arousal-related adjustments of perceptual biases optimize perception in dynamic environments", https://doi.org/10.1038/s41562-017-0107
+"Arousal-related adjustments of perceptual biases optimize perception in dynamic environments", https://doi.org/10.1038/s41562-017-0107. 
 The authors gave us permission to share their behavioral data. 
-Despite the file names, we did not include the eyetracker data here to reduce file sizes, and because it is not relevant to our study.  
+Despite the file names, we did not include the eyetracker data here to reduce file sizes, and because it is not relevant to our study.
 Note that the estimation responses and single-sound trials (condition number 3) were included, although they are not used in our analysis. 
 The data from the first session of each participant is not included here, because those were considered as training sessions. 
 
