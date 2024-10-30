@@ -2,7 +2,7 @@
 This public repository contains the analysis code and behavioral data for the following manuscript:
 "How relevant is the prior? Bayesian causal inference for dynamic perception in volatile environments"
 by David Meijer, Roberto Barumerli and Robert Baumgartner. 
-BioRxiv preprint here: https://www.biorxiv.org/content/10.1101/2024.10.29.620874v1
+BioRxiv preprint here: https://doi.org/10.1101/2024.10.29.620874
 
 The behavioral data (.mat files in the "final_behav_eye_data_Krishnamurthy" folder) are part of the dataset that was collected by 
 Kamesh Krishnamurthy, Matthew R. Nassar, Shilpa Sarode & Joshua I. Gold, and it was published in Nature Human Behaviour (2017):
