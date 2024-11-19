@@ -24,7 +24,7 @@ The output files of the model fitting procedure (i.e., "BCPfitResults.mat" files
 Instead, the fitted parameter values were extracted with "extract_fits.m" and saved as "fitted_params_2024.mat" in the "fitted_data_Krishna2017_2024" folder. 
 
 The raw manuscript figures can be created by calling each of the "Create_fig" scripts. These use the helper functions in the "utilities" folder. 
-"computeSurprisal.m" was used to create "surprisal_surface_plot_data.mat", which is loaded in "Create_fig_4.m". 
+"computeSurprisal.m" was used to create "surprisal_surface_plot_data.mat", which is loaded in "Create_fig_5.m". 
 
 The "Create_fig" scripts also run the basic statistical tests that are reported in the manuscript. 
 We used JASP (https://jasp-stats.org/) for the repeated-measures ANOVA and accompanying post-hoc tests (see "stats" folder).
