@@ -4,7 +4,7 @@ clearvars;
 %Add the utilities folder
 addpath('utilities'); 
 
-%% Draw sequence of stimuli (Figure 1A)
+%% Draw sequence of stimuli (Figure 2A)
 
 HR = 0.15;
 var_exp = 20^2;
@@ -172,7 +172,7 @@ xlim([-90,90]); ylim([0 0.031]); yticks([]); xticks([-90 -45 0 45 90]);
 title('Causal Uncertainty');
 
 
-%% Figure 1B. Logit transformed prior relevance as function of prediction error
+%% Figure 2B. Logit transformed prior relevance as function of prediction error
 
 disp2cdf = @(disp) disp*2/180-disp.^2/180^2;
 cdf2disp = @(cdf) 180-sqrt(180^2*(1-cdf));
